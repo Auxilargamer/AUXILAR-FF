@@ -1,0 +1,6 @@
+{
+  "name": "Mini Battle Royale 3D",
+  "description": "A fast-paced 3D low-poly mini battle royale game prototype featuring shrinking safe zones, scattered weapon and medkit loot crates, intelligent enemy bots, and third-person raycast shooting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
